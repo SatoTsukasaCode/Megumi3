@@ -1,6 +1,7 @@
 # Megumi3
 Megumin styles i3wm rice!
 
+![alt text](https://github.com/SatoTsukasaCode/Megumi3/blob/main/1_004.png)
 
 # Stuff you need to install:
 i3wm, 
