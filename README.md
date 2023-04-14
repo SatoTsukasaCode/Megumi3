@@ -9,3 +9,4 @@ nitrogen
 i3-volume
 polybar
 kitty
+dmenu
