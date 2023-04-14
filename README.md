@@ -1,5 +1,5 @@
 # Megumi3
-Megumin styles i3wm rice!
+Megumin styled i3wm rice!
 
 ![alt text](https://github.com/SatoTsukasaCode/Megumi3/blob/main/1_004.png)
 
